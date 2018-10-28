@@ -140,10 +140,8 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [incassolink.nl](https://incassolink.nl) - Search for a dept collection agency that suits your needs.
 - [LibCrowds](https://github.com/LibCrowds/libcrowds) - Crowdsourcing platform built with Nuxt.js.
 - [ZenEstate](https://bitbucket.org/timotheeHub/zenestate-client) - Singapore-based real estate agent search engine based on Nuxt.js.
-- [travelme.jp](https://travelme.jp/articles/) - Website in Japan introducing a lot of travel articles.
 - [tipe.io](https://tipe.io) - Meta CMS that allows you to create and manage your content with GraphQL or REST API.
 - [BR Podcast](https://www.br.de/mediathek/podcast) - Podcast-Directory of the german broadcaster Bayerischer Rundfunk.
-- [opportunitiis.com](https://www.opportunitiis.com/) - Tech industry based job listing site with Nuxt(PWA) application instances backed by Python(Flask) APIs.
 - [Laboratório IMEC](https://www.laboratorioimec.com.br) - IMEC Pharmacy Website - Made in NuxtJS + WP-API.
 - [Koala](https://au.koala.com) - Ecommerce Progressive Web Application made with Nuxt.js on top of Shopify.
 - [Lichter.io](https://lichter.io) - Open-source portfolio website based on Nuxt.js and TailwindCSS.
@@ -166,7 +164,6 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [VuePeople](https://vuepeople.org) - VuePeople lists and connects Vue.JS developers around the world. Built with Nuxt + Axios, Proxy and Analytics module, on top of Django Rest Framework.
 - [Y-Verge](https://yverge.com) - Company website built with NuxtJS and all pages generated statically.
 - [Bael Theme](https://bael-theme.jake101.com) - Free Nuxt.js-based blog template that [deploys to Netlify](http://templates.netlify.com/template/nuxt-bael-blog-template/) in one click. The backend runs on Netlify CMS and includes a serverless function for email newsletter sign up.
-- [Cotabox](https://cotabox.com.br) - The commercial platform for supply chain and B2B sell's.
 - [Deligram](https://www.deligram.com/) - Bangladesh based e-commerce website.
 - [Cute never dies](https://cuteneverdies.com/) - Original mask design web shop. Integrates with Stripe's API.
 - [beCamp](https://be.camp) - Open source website for a community-organized tech conference in Charlottesville, VA.
@@ -263,7 +260,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 
 ### Official Examples
 
-- [Hello World](https://hello-world.nuxtjs.org/)
+- [Hello World](https://nuxtjs.org/examples/)
 - [TODO MVC](https://github.com/nuxt/todomvc)
 - [Auth0](https://github.com/nuxt/example-auth0)
 - [Middleware](https://nuxtjs.org/examples/middleware)
